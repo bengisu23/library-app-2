@@ -1,0 +1,36 @@
+{
+  "books": [
+    {
+      "id": "1680336685096",
+      "title": "haşhaş savaşları",
+      "author": "R.F Kuang",
+      "publisher": "artemis",
+      "price": "110",
+      "isbn": "1234579154879",
+      "categoryId": "1"
+    },
+    {
+      "id": "1681373039901",
+      "title": "deneme1",
+      "author": "asd9898",
+      "publisher": "artemis",
+      "price": "64545",
+      "isbn": "ssdf45454",
+      "categoryId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Roman"
+    },
+    {
+      "id": "3",
+      "name": "Kişisel Gelişim1"
+    },
+    {
+      "id": "1681822792364",
+      "name": "bilim"
+    }
+  ]
+}
